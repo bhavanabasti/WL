@@ -29,7 +29,7 @@ node_modules/
 .env
 
 # Local Drupal settings (do not commit)
-!sites/default/files/config/
+!sites/default/files/config/sync/
 sites/*/settings.local.php
 sites/*/services.local.yml
 sites/*/development.services.yml
